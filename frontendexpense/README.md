@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+"Developed a comprehensive expense tracker using React and Express, incorporating React Redux Toolkit and React Router DOM for state management and routing. The application supports user authentication with signup and login, and includes features to add, update, and delete expenses. Users can track both expense and income history, visualized through dynamic graphs using Chart.js. Additional functionalities include profile and password management, with form validation powered by Yup and Formik."
